@@ -53,8 +53,10 @@ I blog, build, and brainstorm daily to master tech & deep learning habits.
 ## ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
--->
+
 ---  
+
+-->
 ## 🚩 Badges
 
 ![GitHub followers](https://img.shields.io/github/followers/Lime-sisi?label=Follow%20me%20on%20GitHub&style=social)
