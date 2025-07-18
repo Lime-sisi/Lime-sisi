@@ -42,21 +42,6 @@ I blog, build, and brainstorm daily to master tech & deep learning habits.
 
 </details>
 
-<!--
-## 📊 Stats & Tools
-![B's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lime-sisi&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lime-sisi&layout=compact)
-
----
-
-## ✍️ Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----  
-
--->
 ## 🚩 Badges
 
 ![GitHub followers](https://img.shields.io/github/followers/Lime-sisi?label=Follow%20me%20on%20GitHub&style=social)
