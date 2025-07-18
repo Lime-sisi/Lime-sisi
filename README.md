@@ -30,7 +30,7 @@ I blog, build, explore.
   <!-- https://github.com/Lime-sisi/github-readme-stats -->
 
   <a href="https://github.com/Lime-sisi/github-readme-stats"><img alt="Sisi's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Lime-sisi&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/Lime-sisi/github-readme-stats"><img alt="Sisi's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Lime-sisi&langs_count=8&layout=compact&theme=xcode&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <a href="https://github.com/Lime-sisi/github-readme-stats"><img alt="Sisi's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Lime-sisi&langs_count=8&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
 
   <b>Note:</b>Python is currently my primary language as I use it with pandas for data analysis and am stepping into AI agent building. I also heavily rely on scripting languages for daily tasks.
