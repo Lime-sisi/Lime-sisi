@@ -28,9 +28,15 @@ I'm on a mission to build **$300k/month cash flow** with AI, internet platforms,
 ---
 
 ## 📫 Connect with Me
-- 🌐 [Medium Blog](https://yourmediumlink)
-- 🐦 [Twitter](https://yourtwitterlink)
-- 📷 [YouTube Shorts](https://youryoutubelink)
-- 📧 Email: your.email@example.com
+- 🌐 [Medium Blog](https://https://medium.com/@sisi_hj)
 
 > *“Be practical, think forward, and never stop iterating.”* 🚀
+
+## 🚩 Badges
+[![Medium Blog](https://img.shields.io/badge/Blog-Medium-black?logo=medium)]([https:](https://medium.com/@sisi_hj))
+[![YouTube](https://img.shields.io/badge/Subscribe-YouTube-red?style=for-the-badge&logo=youtube)](https://youryoutubelink)
+
+### Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/AI-Exploration-blueviolet)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-Pandas-black)
