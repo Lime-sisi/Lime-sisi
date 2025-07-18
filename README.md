@@ -31,11 +31,11 @@ I blog, build, and brainstorm daily to master tech & deep learning habits.
 
   <!-- https://github.com/Lime-sisi/github-readme-stats -->
 
-  <a href="https://github.com/Lime-sisi/github-readme-stats"><img alt="Sisi's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Lime-sisi&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/Lime-sisi/github-readme-stats"><img alt="Sisi's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Lime-sisi&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <a href="https://github.com/Lime-sisi/github-readme-stats"><img alt="Sisi's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Lime-sisi&show_icons=true&include_all_commits=true&count_private=true&theme=xcode&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/Lime-sisi/github-readme-stats"><img alt="Sisi's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Lime-sisi&langs_count=8&layout=compact&theme=xcode&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b>Note:</b>Python is currently my primary language as I use it with pandas to do data analysis and am stepping into AI agent building, but I heavily rely on scripting languages for daily tasks.
   <!-- https://github.com/Lime-sisi/github-readme-activity-graph -->
 
   <a href="https://github.com/Lime-sisi/github-readme-activity-graph"><img alt="sisi's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Lime-sisi&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
