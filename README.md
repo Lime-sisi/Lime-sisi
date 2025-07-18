@@ -1,6 +1,6 @@
 # 👋 Hey, I'm B!
 
-🚀 Tech Blogger | 🎓 Data Analytics Grad Student | 🎬 Video Editor | 🤖 AI & Machine Learning Explorer
+🚀 Tech Blogger | 🎓 Zillenium Data Analyst, evolving through AI | 🎬 Video Editor | 🤖 AI & Machine Learning Explorer
 
 I blog, build, and brainstorm daily to master tech & deep learning habits.
 
@@ -37,6 +37,8 @@ I blog, build, and brainstorm daily to master tech & deep learning habits.
 ![AI](https://img.shields.io/badge/AI-Agent%20Builder-blueviolet)
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-Pandas-black)
 ![Video Editing](https://img.shields.io/badge/Editing-DaVinci%20Resolve-blue)
+![Jupyter Notebooks](https://img.shields.io/badge/Notebooks-Jupyter-orange?logo=Jupyter)
+![Pandas Mastery](https://img.shields.io/badge/Data%20Wrangling-Pandas-150458?logo=pandas)
 
 ## 📫 Connect with Me
 - 🌐 [Medium Blog](https://medium.com/@sisi_hj)
