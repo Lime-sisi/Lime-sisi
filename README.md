@@ -39,6 +39,6 @@ I blog, build, and brainstorm daily to master tech & deep learning habits.
 ![Video Editing](https://img.shields.io/badge/Editing-DaVinci%20Resolve-blue)
 
 ## 📫 Connect with Me
-- 🌐 [Medium Blog](https://https://medium.com/@sisi_hj)
+- 🌐 [Medium Blog](https://medium.com/@sisi_hj)
 
 > *“Be practical, think forward, and never stop iterating.”* 🚀
