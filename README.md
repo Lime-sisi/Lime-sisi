@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hey, I'm B!
 
-<!--
-**Lime-sisi/Lime-sisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Tech Blogger | 🎓 Data Analytics Grad Student | 🎬 Video Editor | 🤖 AI & Machine Learning Explorer
 
-Here are some ideas to get you started:
+I'm on a mission to build **$300k/month cash flow** with AI, internet platforms, and sheer willpower. I blog, build, and brainstorm daily to master tech & deep learning habits.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Current Focus
+- ✨ Building AI agents & exploring AI products like ChatGPT, Gemini
+- 📈 Data analysis, visualization & applied machine learning
+- 🎥 Creating YouTube Shorts & editing with DaVinci Resolve
+- 📖 Blogging on Medium about AI, data, productivity hacks
+
+---
+
+## 📊 Stats & Tools
+![B's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact)
+
+---
+
+## ✍️ Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 📫 Connect with Me
+- 🌐 [Medium Blog](https://yourmediumlink)
+- 🐦 [Twitter](https://yourtwitterlink)
+- 📷 [YouTube Shorts](https://youryoutubelink)
+- 📧 Email: your.email@example.com
+
+> *“Be practical, think forward, and never stop iterating.”* 🚀
