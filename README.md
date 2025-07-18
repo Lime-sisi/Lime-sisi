@@ -2,9 +2,7 @@
 
 🚀 Tech Blogger | 🎓 Zillennial Data Analyst, evolving through AI | 🎬 Video Editor | 🤖 AI & Machine Learning Explorer
 
-I blog, build, and brainstorm daily to master tech & deep learning habits.
-
----
+I blog, build, explore. 
 
 ## 🛠️ Current Focus
 - ✨ Building AI agents & exploring AI products like ChatGPT, Gemini
@@ -43,7 +41,6 @@ I blog, build, and brainstorm daily to master tech & deep learning habits.
 </details>
 
 ## 🚩 Badges
-
 ![GitHub followers](https://img.shields.io/github/followers/Lime-sisi?label=Follow%20me%20on%20GitHub&style=social)
 
 [![Medium Blog](https://img.shields.io/badge/Blog-Medium-black?logo=medium)](https://medium.com/@sisi_hj)
@@ -61,10 +58,10 @@ I blog, build, and brainstorm daily to master tech & deep learning habits.
 ### 🎬 Video Editing
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-1f66c1?style=flat-square&logo=daVinciResolve)
 
-### Ai adventure 
+### AI Adventure 
 ![AI](https://img.shields.io/badge/AI-Agent%20Builder-blueviolet)
 
 ## 📫 Connect with Me
 - 🌐 [Medium Blog](https://medium.com/@sisi_hj)
 
-> *“Be practical, think forward, and never stop iterating.”* 🚀
+> *“Do something challenging everything”* 
