@@ -41,7 +41,7 @@ I blog, build, and brainstorm daily to master tech & deep learning habits.
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 </details>
-
+<!--
 ## 📊 Stats & Tools
 ![B's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lime-sisi&show_icons=true&theme=radical)
 
@@ -54,6 +54,7 @@ I blog, build, and brainstorm daily to master tech & deep learning habits.
 <!-- BLOG-POST-LIST:END -->
 
 ---
+-->
 ## 🚩 Badges
 
 ![GitHub followers](https://img.shields.io/github/followers/Lime-sisi?label=Follow%20me%20on%20GitHub&style=social)
