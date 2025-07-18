@@ -34,10 +34,12 @@ I blog, build, and brainstorm daily to master tech & deep learning habits.
 
 ### ⚙️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Shell-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-Agent%20Builder-blueviolet)
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-Pandas-black)
 ![Video Editing](https://img.shields.io/badge/Editing-DaVinci%20Resolve-blue)
 ![Jupyter Notebooks](https://img.shields.io/badge/Notebooks-Jupyter-orange?logo=Jupyter)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 ![Pandas Mastery](https://img.shields.io/badge/Data%20Wrangling-Pandas-150458?logo=pandas)
 
 ## 📫 Connect with Me
