@@ -1,4 +1,4 @@
-# 👋 Hey, I'm B!
+## 👋 Hey, I'm B
 
 🚀 Tech Blogger | 🎓 Zillennial Data Analyst, evolving through AI | 🎬 Video Editor | 🤖 AI & Machine Learning Explorer
 
@@ -64,4 +64,4 @@ I blog, build, explore.
 ## 📫 Connect with Me
 - 🌐 [Medium Blog](https://medium.com/@sisi_hj)
 
-> *“Do something challenging everything”* 
+> *“Get up. Do something challenging everyday”* 
