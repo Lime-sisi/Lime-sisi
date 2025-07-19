@@ -11,7 +11,7 @@ I blog, build, explore.
 - 📖 Blogging on Medium about AI, data, productivity hacks
 
 ---
-<details> 
+
   <summary><h2>📊 Stats and Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
@@ -38,7 +38,7 @@ I blog, build, explore.
 
   <a href="https://github.com/Lime-sisi/github-readme-activity-graph"><img alt="sisi's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Lime-sisi&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-</details>
+
 
 ## 🚩 Badges
 ![GitHub followers](https://img.shields.io/github/followers/Lime-sisi?label=Follow%20me%20on%20GitHub&style=social)
