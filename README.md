@@ -12,7 +12,7 @@ I blog, build, explore.
 
 ---
 
-  <summary><h2>📊 Stats and Activity</h2></summary>
+  <h2>📊 Stats and Activity</h2>
 
   <h3>🔥 Streak Stats</h3>
 
