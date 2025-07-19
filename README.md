@@ -22,7 +22,7 @@ I blog, build, explore.
       <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
       <img title="💡 The resources I use for displaying the beautiful stats is from git.io/streak-stats" alt="Sisi's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Lime-sisi&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
     </a>
-    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+    <p>🔥 Kudos to DenverCoder1 for making <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
@@ -33,7 +33,7 @@ I blog, build, explore.
   <a href="https://github.com/Lime-sisi/github-readme-stats"><img alt="Sisi's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Lime-sisi&langs_count=8&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
 
-  <b>Note:</b>Python is currently my primary language as I use it with pandas for data analysis and am stepping into AI agent building. I also heavily rely on scripting languages for daily tasks.
+  <b>Note:</b>&nbsp &nbsp &nbsp Python is currently my primary language as I use it with pandas for data analysis and am stepping into AI agent building. I also heavily rely on scripting languages for daily tasks.
   <!-- https://github.com/Lime-sisi/github-readme-activity-graph -->
 
   <a href="https://github.com/Lime-sisi/github-readme-activity-graph"><img alt="sisi's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Lime-sisi&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
