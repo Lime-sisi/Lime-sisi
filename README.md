@@ -22,7 +22,7 @@ I blog, build, explore.
       <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
       <img title="💡 The resources I use for displaying the beautiful stats is from git.io/streak-stats" alt="Sisi's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Lime-sisi&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
     </a>
-    <p>🔥 Kudos to DenverCoder1 for making <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+    <p>🔥 Kudos to https://github.com/DenverCoder1 for making <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
