@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=17&pause=1000&color=2972B6&width=435&lines=Analytical+mind+%26+quirky+curiosity;Pandas+practitioner;High+performance+C%2B%2B+learner)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?        font=Major+Mono+Display&size=15&pause=1000&color=2972B6&width=435&lines=Analytics+mind+%26+intellectual+curiosity;Pandas+practitioner;High+performance+C%2B%2B+learner" alt="Typing SVG"   /></a>
+</p>
 ## 👋 Hey, I'm B
 
 🚀 Tech Blogger | 🎓 Zillennial Data Analyst, evolving through AI | 🎬 Video Editor | 🤖 AI & Machine Learning Explorer
