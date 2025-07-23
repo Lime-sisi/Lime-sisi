@@ -4,7 +4,7 @@
 
 ## 👋 Hey, I'm B
 
-🚀 Tech Blogger | 🎓 Zillennial Data Analyst, evolving through AI | 🎬 Video Editor | 🤖 AI & Machine Learning Explorer
+🚀 Tech Blogger | 🎓 Zillennial Data Analyst, adapting to the AI-involved tech reality | 🎬 Video Editor | 🤖 AI & Machine Learning Explorer
 
 I blog, build, explore. 
 
